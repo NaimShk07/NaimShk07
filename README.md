@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Full Stack Developer | Passionate about building web applications | Always up for a coding challenge | Let's connect and code together! | [LinkedIn](www.linkedin.com/in/nayemuddinshaikh/) | [Email](nayemuddinshaikh@email.com)
+👋 Full Stack Developer | Passionate about building web applications | Always up for a coding challenge | Let's connect and code together! | [LinkedIn](https://www.linkedin.com/in/nayemuddinshaikh) | [Email](mailto:nayemuddinshaikh@email.com)
 
 
 ## 🌐 Socials:
